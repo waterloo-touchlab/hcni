@@ -8,4 +8,15 @@ github:
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-cayman
 
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+
+minima:
+  skin: classic
+  
