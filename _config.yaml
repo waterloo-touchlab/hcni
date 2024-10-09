@@ -1,5 +1,5 @@
-title: CHI 2025 Narrative Interactions Workshop
-description: A short description of the workshop
+title: HCNI@CHI
+description: Human-Computer Narrative Interactions Workshop
 github:
   is_project_page: false
 
@@ -15,7 +15,8 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - about.md
+  - call-for-participation.md
+  - organizers.md
 
 minima:
   skin: classic
