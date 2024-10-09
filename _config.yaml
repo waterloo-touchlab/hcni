@@ -2,7 +2,8 @@ title: CHI 2025 Narrative Interactions Workshop
 description: A short description of the workshop
 github:
   is_project_page: false
-  
+
 # theme: jekyll-theme-minimal
-# theme: jekyll-theme-architect
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-cayman
