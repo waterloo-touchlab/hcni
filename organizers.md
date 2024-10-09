@@ -4,8 +4,6 @@ title: Organizers
 permalink: /organizers/
 ---
 
-# Organizers
-
 **Geneva M. Smith**, Ph.D. is a postdoctoral scholar and member of the Games Institute and HCI@Waterloo at the University of Waterloo. She develops methods and tools for IDN design and evaluation. Her previous work combined insights from game design, software engineering, affective science, and literary analysis to develop methods for the design and evaluation of generated game character emotions in service to character believability in game narratives.
 These are some factors that distinguish IDNs from fixed narratives [ 22 ]. She has presented her work as part of
 interdisciplinary panels at conferences for media ecology [28] and interactive storytelling for games [29].
