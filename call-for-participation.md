@@ -8,4 +8,4 @@ Here is our CfP
 
 Submit your position paper here (eventually):
 
-[Submit](http://www.google.com){: .btn}
+[Submit](http://www.google.com){: .btn .disabled}
