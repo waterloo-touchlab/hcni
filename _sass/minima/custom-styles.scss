@@ -1,6 +1,5 @@
-.btn:visited, .btn:link {
-    background-color: #008CBA;
-    color: white;
+
+.btn {
     border: 2px solid #008CBA;
     border-radius: 10px;
     padding: 8px 16px;
@@ -11,7 +10,12 @@
     margin: 4px 2px;
     transition-duration: 0.4s;
     cursor: pointer;
-  }
+}
+
+.btn:visited, .btn:link {
+    background-color: #008CBA;
+    color: white;
+}
 
 .btn:hover, .btn:active {
     background-color: white; 
