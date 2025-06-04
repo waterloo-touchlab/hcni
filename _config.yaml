@@ -20,4 +20,7 @@ header_pages:
 
 minima:
   skin: classic
+  nav_pages:
+    - call-for-participation.md
+    - organizers.md
   
