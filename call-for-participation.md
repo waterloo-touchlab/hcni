@@ -10,6 +10,6 @@ This interdisciplinary, full-day hybrid workshop brings together researchers to 
     
 We invite you to submit a maximum of 500-words describing your research and its relation to the workshop topics and goals, and a 200-word bio using the following form. This will give the organizers an idea of the breadth of knowledge and expertise to anticipate for the workshop. We welcome interested participants from any discipline to attend the workshop. All participants must [register for the workshop and at least one day of CHI PLAY 2025](https://chiplay.acm.org/2025/registration/).
 
-Submit your position paper here (eventually):
+Interested in joining us in-person or remotely?
 
-[Submit](http://www.google.com){: .btn .disabled}
+[Submit Your Research Statement and Bio Here](https://forms.office.com/Pages/ResponsePage.aspx?id=h1o6cprzIkqSRz_CQMATljsp3qDxXItHtl3atyoVpwFUN0xQTDhBQ1NYUllGSEtINjU2Q1dMMVhYUy4u){: .btn}
