@@ -15,6 +15,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
+  - schedule.md
   - call-for-participation.md
   - organizers.md
 
