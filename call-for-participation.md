@@ -13,3 +13,7 @@ We invite you to submit a maximum of 500-words describing your research and its 
 Interested in joining us in-person or remotely?
 
 [Submit Your Research Statement and Bio Here](https://forms.office.com/Pages/ResponsePage.aspx?id=h1o6cprzIkqSRz_CQMATljsp3qDxXItHtl3atyoVpwFUN0xQTDhBQ1NYUllGSEtINjU2Q1dMMVhYUy4u){: .btn}
+
+Questions?
+
+<a className="btn" href="href="mailto:g38smith@uwaterloo.ca?subject=[HCNI@CHI PLAY 2025]">Send us an email</a>
