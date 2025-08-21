@@ -16,4 +16,4 @@ Interested in joining us in-person or remotely?
 
 Questions?
 
-<a className="btn" href="href="mailto:g38smith@uwaterloo.ca?subject=[HCNI@CHI PLAY 2025]">Send us an email</a>
+<a className="btn" href="mailto:g38smith@uwaterloo.ca?subject=[HCNI@CHI PLAY 2025]">Send us an email</a>
