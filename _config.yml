@@ -1,0 +1,27 @@
+title: HCNI@CHIPLAY 2025
+description: Human-Computer Narrative Interactions Workshop
+github:
+  is_project_page: false
+
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-cayman
+
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - schedule.md
+  - call-for-participation.md
+  - organizers.md
+
+minima:
+  skin: classic
+  nav_pages:
+    - schedule.md
+    - call-for-participation.md
+    - organizers.md

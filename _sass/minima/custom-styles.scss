@@ -18,6 +18,13 @@
     text-decoration: none;
 }
 
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
 .btn:hover, .btn:active {
     background-color: white; 
     color: black; 
@@ -28,4 +35,12 @@
     opacity: 0.6;
     pointer-events: none;
     cursor: not-allowed;
+}
+
+.callout {
+	background-color: #EED3FF;
+	border-left: 6px solid #585858;
+	padding: 12px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
