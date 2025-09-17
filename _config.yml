@@ -1,5 +1,5 @@
 title: HCNI@CHIPLAY 2025
-description: Human-Computer Narrative Interactions Workshop
+description: Welcome to the First Interdisciplinary Workshop on Human-Computer Narrative Interactions (HCNI) at CHI PLAY 2025! We'll engage in hands-on exploration of player-game interactivity for impactful digital storytelling. All disciplines and experience levels welcome!
 github:
   is_project_page: false
 
@@ -9,6 +9,8 @@ github:
 # theme: jekyll-theme-cayman
 
 remote_theme: jekyll/minima
+author:
+    email: g38smith@uwaterloo.ca
 
 plugins:
   - jekyll-feed
@@ -21,6 +23,7 @@ header_pages:
 
 minima:
   skin: classic
+  hide_site_feed_link: true
   nav_pages:
     - schedule.md
     - call-for-participation.md
