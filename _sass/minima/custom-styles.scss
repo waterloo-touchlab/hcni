@@ -44,3 +44,17 @@
 	margin-top: 25px;
 	margin-bottom: 25px;
 }
+
+.site-header {
+	a {
+		text-decoration: none;
+	}
+	a:hover {
+			text-decoration: underline;
+		}
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+}

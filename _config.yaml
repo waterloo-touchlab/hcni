@@ -16,6 +16,7 @@ plugins:
 
 header_pages:
   - schedule.md
+  - activities.md
   - call-for-participation.md
   - organizers.md
 
