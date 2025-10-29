@@ -24,6 +24,8 @@ Activities will start in small groups of 3–5 participants, which will then rec
 
 **To allow group members to collaborate and enable sharing with others**, we will use [Miro](https://miro.com/) for whiteboard-style activities and [Google Docs](https://workspace.google.com/intl/en_ca/products/docs/) for document-based activities. These digital, collaboration-focused tools will make it easier for groups to exchange work to build and give feedback on.
 
+**Update** You can see the workshop slides & notes as a PDF [here](/assets/HCNI-CHIPLAY2025_Slides.pdf).
+
 
 <h2 id="act-I">Activity I: Welcome & Community Building</h2>
 We will kick-off the workshop with a brief introduction of the organizers, a summary of the workshop’s goals and schedule, and an overview of what IDNs are. In service of our primary goal to foster a welcoming, interdisciplinary space that values its member’s expertise (see [Objectives](objectives.md)), Activity I focuses on the sharing of participant expertise and their strengths and weaknesses with respect to IDN research and design. 
@@ -86,3 +88,7 @@ To manage the scope of this activity, we have divided it into two parts. Part 1 
 Revisiting our insights from Activities I–III, we will identify related avenues of future work and reinforce our need for interdisciplinarity (<a href="#O3">O3</a>). We will use Activity IV to define our next steps as short and long-term goals. 
 
 Organizers will create groups of 3–5 participants for this activity, and each group will build a mind map of their ideas, visions, and goals with respect to the future of IDNs research and design. Every five minutes, the groups will move to another group’s mind map and add their own ideas, counterpoints, and mark the ideas that they endorse. After three or four rotations (15 to 20 minutes), we will reconvene to share our ideas and visions, and collaboratively sketch a plan for next steps as a community. In our closing remarks, we will highlight situations where interdisciplinarity was crucial in workshop activities, and share options for interested participants to continue our collaborations.
+
+**Update** We changed the activity so that we discussed next steps as a large group, recording our ideas on PowerPoint slides. To start our post-workshop activities, we are continuing to use the workshop channel on the CHI PLAY Discord and using a Google Drive to securely store our work.
+
+Stay tuned for further updates!

@@ -13,6 +13,8 @@ title: Welcome to the First Interdisciplinary Workshop on Human-Computer Narrati
 	As work on IDNs requires insights from a wide variety of fields, our primary <a href="objectives">objective for this workshop</a> is to make space for this interdisciplinary work by fostering a welcoming environment that values each field's expertise and insights. This will help build the foundations necessary for a productive and respectful research community. Check out the <a href="activities">activities we have planned for you</a> and lets build these foundations together!
 </p>
 
+**Update** You can now view the [HCNI@CHI PLAY 2025 workshop proposal](https://doi.org/10.1145/3744736.3749318) in the CHI PLAY 2025 companion proceedings!
+
 <div class="center">
 	<a href="call-for-participation" class="btn">
 		We strongly encourage all interested individuals from any discipline and experience level to respond to our call for participation!
