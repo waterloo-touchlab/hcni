@@ -15,7 +15,7 @@ We invite you to submit a maximum of 500-words describing your research and its 
 We welcome interested participants from any discipline and experience level to respond! Note that all participants must [also register for to attend CHI PLAY **in-person or remotely** on the date of the workshop (October 13, 2025)](https://chiplay.acm.org/2025/registration/).
 
 <div class="center">
-	<a class="btn" href="https://forms.office.com/Pages/ResponsePage.aspx?id=h1o6cprzIkqSRz_CQMATljsp3qDxXItHtl3atyoVpwFUN0xQTDhBQ1NYUllGSEtINjU2Q1dMMVhYUy4u"><b>Interested in joining us? Submit Your Research Statement and Bio Here!</b></a>
+	<a class="btn disabled" href="https://forms.office.com/Pages/ResponsePage.aspx?id=h1o6cprzIkqSRz_CQMATljsp3qDxXItHtl3atyoVpwFUN0xQTDhBQ1NYUllGSEtINjU2Q1dMMVhYUy4u"><b>Thank you for your interest and making HCNI a success!</b></a>
 </div>
 
 <div class="center">

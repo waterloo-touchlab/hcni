@@ -30,15 +30,57 @@ We will kick-off the workshop with a brief introduction of the organizers, a sum
 
 Starting in small groups, each group will build a [mind map](https://www.interaction-design.org/literature/topics/mind-maps) of their expertise, fields, and connections to IDNs. Participants are encouraged to share the [bio and description of their research they submitted to the workshop](https://waterloo-touchlab.github.io/hcni/call-for-participation/) with their groups to kick-start the discussions. After 15 to 20 minutes, we will reconvene to share insights and findings, and collaboratively explore how our collective expertise bolsters our strengths and mitigates our weaknesses to emphasize our need to work together if we wish to progress.
 
+**Recommended Readings**
+
+[Understanding Interactive Digital Narrative: Immersive Expressions for a Complex Time (Koenitz, 2023)](https://doi.org/10.4324/9781003106425)
+
+[Interactive digital narrative (IDN)—new ways to represent complexity and facilitate digitally empowered citizens (Koenitz et al., 2022)](https://doi.org/10.1080/13614568.2023.2181503)
+
 <h2 id="act-II">Activity II: Storytelling & Interactivity</h2>
 Activity II is for identifying and investigating existing storytelling structures, techniques, and traditions for their ability to support and encourage interactivity (<a href="#O1">O1</a>). This will build our understanding of interactivity in narratives and serve as a reference when examining the potential of other structures/techniques/traditions to support audience/user-interactions with IDNs. 
 
 Small interdisciplinary teams will research at least one storytelling structure, technique, or tradition and collect their findings in a shared note-taking space (e.g., digital whiteboard). Due to the tendency to focus on narratives from our dominant culture, we will encourage groups to investigate one from outside their own culture. We will direct teams respectfully and accurately engage with the topic by understanding the cultural significance of the tradition and conscious, deliberate efforts to find sources by individuals or groups from those cultures. Organizers will also strongly encourage groups to investigate storytelling structures, techniques, and traditions that are not intended for literary forms (e.g., written texts).
 
+**Updates** We clarified our focus to "non-Western, non-literary" storytelling approaches to better reflect open questions in IDN research.
+
+**Recommended Readings**
+
+[The Myth of ‘Universal’ Narrative Models: Expanding the Design Space of Narrative Structures for Interactive Digital Narratives (Koenitz et al., 2018)](https://doi.org/10.1007/978-3-030-04028-4_8)
+
+[Intersectional HCI: Engaging Identity through Gender, Race, and Class (Schlesinger et al., 2017)](https://doi.org/10.1145/3025453.3025766)
+
+**Resources---Cross-Cultural Dialogue**
+
+Although these focus on North American Indigenous groups, we believe that these frameworks can also guide respectful engagement with other cultural groups.
+
+[The Six Rs of Indigenous Research (Journal of American Indian Higher Education)](https://tribalcollegejournal.org/the-six-rs-of-indigenous-research/)
+
+[A Framework for Cross-cultural Dialogue (4Rs Youth Movement)](https://4rsyouth.ca/our-framework/)
+
+**Resources---Reflexivity and Positionality Statements**
+
+[A practical guide to reflexivity in qualitative research: AMEE Guide No. 149 (Olmos-Vega et al., 2022)](https://doi.org/10.1080/0142159X.2022.2057287)
+
+[How to Write a ‘Positionality Statement’ (and Why Positioning Identity Matters in Decolonising Research and Knowledge Production) (Equality Institute)](https://www.equalityinstitute.org/how-to-write-a-positionality-statement-and-why-positioning-identity-matters-in-decolonising-research-and-knowledge-production/)
+
+[Positionality Statements (Wiley)](https://onlinelibrary.wiley.com/pb-assets/assets/14756811/Positionality-Statements-1621354517813.pdf)
+
+[Positionality Statements in Research (ATLAS.ti)](https://atlasti.com/research-hub/positionality-statements-qualitative-research)
+
 <h2 id="act-III">Activity III: Exploring Emergent & Interpreted Narratives</h2>
 To explore the potential for interactivity in storytelling structures/techniques/traditions, we will run a game jam-inspired activity to identify elements and features that we can use to evaluate the interactive potential of other structures/techniques/traditions (<a href="#O2">O2</a>). Small interdisciplinary teams will design a game concept around a given prompt using their storytelling structure/technique/tradition from Activity II. We will provide prompts (e.g., "Design an interactive system that tells a story through user frustration", "Tell a story through the way someone touches or holds a device", "Design a system where the more control the user takes, the less story they see", "Design a narrative where the interface is the antagonist"), including an invitation to choose a proverb from the culture of their chosen storytelling tradition. We will strongly encourage teams to prioritize emergent narratives (e.g., through interface and interaction) over embedded ones (e.g., exposition) to foreground interactivity by applying knowledge from HCI theory and design. 
 
 To manage the scope of this activity, we have divided it into two parts. Part 1 focuses on design using ideation (e.g., bodystorming) and paper prototyping (e.g., Wizard of Oz) methods to rapidly generate, try, and iterate on ideas. In Part 2, we will reconvene as a large group for teams to present their prototypes. In 5–10 minutes, teams will: introduce their chosen prompt and resulting game narrative concept; the underlying narrative form/structure from Activity II; and how they used system properties/behaviours (e.g., affordances, feedback loops) and interactivity (e.g., interaction patterns) to convey a narrative.
+
+**Resources**
+
+[4 Types of Narrative in Games (Medium)](https://medium.com/@elle_mcfadzean/4-types-of-narrative-in-games-20a101153f5f)
+
+[MDA: A Formal Approach to Game Design and Game Research (Hunicke et al., 2004)](https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf)
+
+[A Working Theory of Game Design: Mechanics, Technology, Dynamics, Aesthetics & Narratives (Ralph & Monu, 2014)](https://www.firstpersonscholar.com/a-working-theory-of-game-design/)
+
+[The Rise of the Systemic Game (Mark Brown--Game Maker's Toolkit (2018), YouTube)](https://www.youtube.com/watch?v=SnpAAX9CkIc)
 
 <h2 id="act-IV">Activity IV: Next Steps</h2>
 Revisiting our insights from Activities I–III, we will identify related avenues of future work and reinforce our need for interdisciplinarity (<a href="#O3">O3</a>). We will use Activity IV to define our next steps as short and long-term goals. 
